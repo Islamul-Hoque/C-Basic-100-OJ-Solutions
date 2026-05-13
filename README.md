@@ -18,7 +18,7 @@ All codes are written in **C language** and organized into folders according to 
 7. Combine Two Rectangles (check width/height equality) → [Solution Link](https://github.com/Islamul-Hoque/MarisaOJ-Codes-Solutions/blob/main/C-Program/Combine_rectangles.c)  
 8. Print String Three Times → [Solution Link](https://github.com/Islamul-Hoque/MarisaOJ-Codes-Solutions/blob/main/C-Program/String.c)  
 9. Triangle Validity Check (using triangle inequality) → [Solution Link](https://github.com/Islamul-Hoque/MarisaOJ-Codes-Solutions/blob/main/C-Program/Triangle.c)  
-
+10. Rounded Division → [Print division result rounded to two decimal places](https://github.com/Islamul-Hoque/MarisaOJ-Codes-Solutions/blob/main/C-Program/Rounded_division.c)
 
 ## ▶️ Usage
 1. To run the code, use **GCC** or any other C compiler.
