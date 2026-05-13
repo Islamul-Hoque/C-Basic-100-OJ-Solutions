@@ -34,6 +34,8 @@ All codes are written in **C language** and organized into folders according to 
 
 ### CF-Group
 - Digits Summation → [Sum of last digits of two numbers](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/CF-Group/Digits_Summation.c)  
+- Summation from 1 to N → [Efficient summation using formula n*(n+1)/2](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/CF-Group/G_Summation_from_1_to_N.c)  
+
 
 ### AtCoder
 - (Problems will be added soon)  
