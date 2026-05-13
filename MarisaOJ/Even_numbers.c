@@ -10,7 +10,3 @@ int main() {
     return 0;
 }
 
-
-// git add .
-// git commit -m "feat(CF-Group/Even_Numbers.c): add solution to print even numbers up to n in descending order"
-// git push
