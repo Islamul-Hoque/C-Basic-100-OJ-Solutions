@@ -59,6 +59,7 @@ This repo is designed for:
 6. Age in Days 🌟→ [Convert age to year,month and days](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/R_Age_in_Days.c)  
 7. Interval → [Determine interval of input number or mark as out of range](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/S_Interval.c)  
 8. Two Intervals 🌟→ [Print intersection boundaries of two intervals or -1 if no overlap](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/X_Two_intervals.c)
+9. Hard Compare 🌟→ [Compare A^B and C^D using logarithms to avoid overflow](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/Z_Hard_Compare.c)
 
 
 ### AtCoder
