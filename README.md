@@ -46,6 +46,8 @@ This repo is designed for:
 15. Circle Area Calculation → [Solution Link](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Circle.c)  
 16. Distance Between Two Points → [Solution Link](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Distance.c)  
 17. Even Numbers Printer → [Solution Link](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Even_numbers.c)
+18. Calculator → [Perform +, -, *, / with two real numbers, round to 3 decimals, handle division by zero](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Calculator.c)
+
 
 ### Codeforces
 - Digits Summation → [Sum of last digits of two numbers](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/F_Digits_Summation.c)  
