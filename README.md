@@ -34,9 +34,14 @@ All codes are written in **C language** and organized into folders according to 
 
 ### Codeforces
 
-- Digits Summation → [Sum of last digits of two numbers](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/Digits_Summation.c)  
+- Digits Summation → [Sum of last digits of two numbers](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/F_Digits_Summation.c)  
 - Summation from 1 to N → [Efficient summation using formula n*(n+1)/2](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/G_Summation_from_1_to_N.c)  
-- Two Intervals → [Print intersection boundaries of two intervals or -1 if no overlap](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/Two_Intervals.c)
+- Capital or Small or Digit → [Check if character is digit, capital, or small](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/M_Capital_or_Small_or_Digit.c)  
+- Char → [Basic character input/output handling](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/N_Char.c)  
+- Coordinates of a Point → [Classify point as origin, axis, or quadrant](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/Q_Coordinates_of_a_Point.c)  
+- Age in Days → [Convert age in years to days](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/R_Age_in_Days.c)  
+- Interval → [Determine interval of input number or mark as out of range](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/S_Interval.c)  
+- Two Intervals → [Print intersection boundaries of two intervals or -1 if no overlap](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/X_Two_intervals.c)
 
 
 ### AtCoder
