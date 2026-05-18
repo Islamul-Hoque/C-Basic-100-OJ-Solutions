@@ -1,14 +1,21 @@
-# C-Basic-100-OJ-Solutions
+# 📝 C-Basic-100-OJ-Solutions
 
-This repository contains solutions to **100 basic C programming problems** collected from four Online Judge (OJ) platforms:  
-- **Marisa OJ** — সবচেয়ে beginner friendly, বাংলাদেশি OJ  
-- **Codeforces** — Codeforces group contests, সহজ problems  
-- **AtCoder** — জাপানি OJ, clean এবং সুন্দর problems  
-- **CSES / CF** — standard problems, এই লিস্টে easy গুলো  
+This repository contains solutions to **100+ basic problems in C** from different Online Judges (OJ) such as **MarisaOJ**, **Codeforces**, **AtCoder**, and **CSES-CF**.  
+The goal is to practice fundamental programming concepts, improve problem-solving skills, and maintain a clean, structured collection of solutions.
 
-All codes are written in **C language** and organized into folders according to the OJ platforms.
+## 📌 Features
+- Organized by OJ platform (MarisaOJ, Codeforces, AtCoder, CSES-CF)
+- Each solution written in **C language**
+- Clean commit history with descriptive messages
+- README includes quick navigation and direct links to problem files
+- Beginner-friendly examples covering math, strings, conditions, loops, and more
 
----
+## 🎯 Purpose
+This repo is designed for:
+- Students learning **C programming basics**
+- Competitive programming practice
+- Maintaining a structured archive of solved problems
+
 
 ## 🔗 Quick Navigation
 - [MarisaOJ Problems](#marisaoj)
