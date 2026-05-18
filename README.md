@@ -2,7 +2,7 @@
 
 This repository contains solutions to **100 basic C programming problems** collected from four Online Judge (OJ) platforms:  
 - **Marisa OJ** — সবচেয়ে beginner friendly, বাংলাদেশি OJ  
-- **CF Group** — Codeforces group contests, সহজ problems  
+- **Codeforces** — Codeforces group contests, সহজ problems  
 - **AtCoder** — জাপানি OJ, clean এবং সুন্দর problems  
 - **CSES / CF** — standard problems, এই লিস্টে easy গুলো  
 
@@ -12,7 +12,7 @@ All codes are written in **C language** and organized into folders according to 
 
 ## 🔗 Quick Navigation
 - [MarisaOJ Problems](#marisaoj)
-- [CF-Group Problems](#cf-group)
+- [Codeforces Problems](#codeforces)
 - [AtCoder Problems](#atcoder)
 - [CSES-CF Problems](#cses-cf)
 
@@ -32,9 +32,11 @@ All codes are written in **C language** and organized into folders according to 
 9. Triangle Validity Check (using triangle inequality) → [Solution Link](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Triangle.c)  
 10. Rounded Division → [Print division result rounded to two decimal places](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Rounded_division.c)  
 
-### CF-Group
-- Digits Summation → [Sum of last digits of two numbers](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/CF-Group/Digits_Summation.c)  
-- Summation from 1 to N → [Efficient summation using formula n*(n+1)/2](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/CF-Group/G_Summation_from_1_to_N.c)  
+### Codeforces
+
+- Digits Summation → [Sum of last digits of two numbers](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/Digits_Summation.c)  
+- Summation from 1 to N → [Efficient summation using formula n*(n+1)/2](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/G_Summation_from_1_to_N.c)  
+- Two Intervals → [Print intersection boundaries of two intervals or -1 if no overlap](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/Two_Intervals.c)
 
 
 ### AtCoder
