@@ -33,7 +33,6 @@ All codes are written in **C language** and organized into folders according to 
 10. Rounded Division → [Print division result rounded to two decimal places](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Rounded_division.c)  
 
 ### Codeforces
-
 - Digits Summation → [Sum of last digits of two numbers](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/F_Digits_Summation.c)  
 - Summation from 1 to N → [Efficient summation using formula n*(n+1)/2](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/G_Summation_from_1_to_N.c)  
 - Capital or Small or Digit → [Check if character is digit, capital, or small](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/M_Capital_or_Small_or_Digit.c)  
@@ -45,7 +44,8 @@ All codes are written in **C language** and organized into folders according to 
 
 
 ### AtCoder
-- (Problems will be added soon)  
+- Multiple of 2 and N → [Find minimum positive integer divisible by both 2 and N](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/AtCoder/Multiple_of_2_and_N.c)  
+- Rated for Me → [Determine next contest (ABC, ARC, AGC) based on rating thresholds](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/AtCoder/Rated_for_Me.c)
 
 ### CSES-CF
 - (Problems will be added soon)  
