@@ -21,6 +21,7 @@ All codes are written in **C language** and organized into folders according to 
 ## 📂 Problem Solutions
 
 ### MarisaOJ
+
 1. Hello Marisa → [Print greeting message "Hello, Marisa!"](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Hello_Marisa.c)  
 2. Summation of A and B → [Solution Link](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/A_B.c)  
 3. Complex Number Multiplication → [Solution Link](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Complex_multiplication.c)  
@@ -31,6 +32,13 @@ All codes are written in **C language** and organized into folders according to 
 8. Print String Three Times → [Solution Link](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/String.c)  
 9. Triangle Validity Check (using triangle inequality) → [Solution Link](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Triangle.c)  
 10. Rounded Division → [Print division result rounded to two decimal places](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Rounded_division.c)  
+11. Ascending Order of Three Integers → [Solution Link](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Ascending.c)  
+12. Rectangle Remaining Edge → [Solution Link](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Rectangle.c)  
+13. The Smallest and Biggest → [Solution Link](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/The_smallest_and_biggest.c)  
+14. Uppercase and Lowercase Conversion → [Solution Link](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Uppercase_and_lowercase.c)  
+15. Circle Area Calculation → [Solution Link](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Circle.c)  
+16. Distance Between Two Points → [Solution Link](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Distance.c)  
+17. Even Numbers Printer → [Solution Link](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Even_numbers.c)
 
 ### Codeforces
 - Digits Summation → [Sum of last digits of two numbers](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/F_Digits_Summation.c)  
