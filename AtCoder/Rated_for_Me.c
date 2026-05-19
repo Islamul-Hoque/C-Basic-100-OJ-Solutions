@@ -7,5 +7,6 @@ int main() {
     if(n<1200) printf("ABC");
     else if(n>=1200 && n<2800) printf("ARC");
     else printf("AGC");
+
     return 0;
 }
