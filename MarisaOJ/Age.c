@@ -6,10 +6,10 @@ int main() {
 
     if(c<z) printf("1"); // year
     else if(c>z) printf("2");
-    else {
+    else {  // year same
         if(b<y) printf("1");  // month
         else if(b>y) printf("2");
-        else{
+        else{  // month same
             if(a<x) printf("1"); // day
             else printf("2");
         }
