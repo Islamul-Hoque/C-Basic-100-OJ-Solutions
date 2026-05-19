@@ -48,6 +48,7 @@ This repo is designed for:
 17. Even Numbers Printer → [Solution Link](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Even_numbers.c)
 18. Calculator → [Perform +, -, *, / with two real numbers, round to 3 decimals, handle division by zero](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Calculator.c)
 
+19. Segment → [Check if two line segments on the number line have a common point](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/MarisaOJ/Segment.c)
 
 ### Codeforces
 - Digits Summation → [Sum of last digits of two numbers](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/Codeforces/F_Digits_Summation.c)  
