@@ -60,7 +60,8 @@ This repo is designed for:
 
 ### AtCoder
 - Multiple of 2 and N → [Find minimum positive integer divisible by both 2 and N](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/AtCoder/Multiple_of_2_and_N.c)  
-- Rated for Me → [Determine next contest (ABC, ARC, AGC) based on rating thresholds](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/AtCoder/Rated_for_Me.c)
+- Rated for Me → [Determine next contest (ABC, ARC, AGC) based on rating thresholds](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/AtCoder/Rated_for_Me.c)  
+- A - 9x9 → [Multiply two integers if both are between 1 and 9, otherwise print -1](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/AtCoder/A_9x9.c)
 
 ### CSES-CF
 - (Problems will be added soon)  
